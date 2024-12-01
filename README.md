@@ -10,7 +10,7 @@
 </center>
 
 <hr>
-
+i updated this to work with fabric 0.16.9 in probly a really janky way that chatgpt told me how to do ¯\_(ツ)_/¯
 A simple Fabric mod to help secure your Minecraft server by blocking incoming connections unless they come from TCPShield proxies.
 
 ### Features
