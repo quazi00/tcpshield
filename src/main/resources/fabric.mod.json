@@ -21,8 +21,9 @@
   "mixins": [
     "tcpshield.mixins.json"
   ],
-  "depends": {
-    "fabricloader": "${loader_version}",
-    "minecraft": "${minecraft_version}"
+ "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "1.21.1",
+    "fabric-api": ">=0.16.9"
   }
 }
